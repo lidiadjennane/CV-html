@@ -1,0 +1,67 @@
+p{
+word-wrap: break-word;
+}
+h1
+{
+color: blue;
+}
+
+h4
+{
+color: blue;
+}
+
+h1
+{
+border: 3px blue outset;
+}
+
+h1,h4,h5
+{
+font-style: normal;
+}
+
+h1
+{
+text-align: center;
+}
+
+
+body
+{
+background: url("resume-de-conception-avec-un-design-low-poly_1048-2007.jpg") repeat fixed ;
+}
+
+aside
+{
+width: 500px;
+}
+
+nav
+{
+display: inline-block;
+width: 1150px;
+text-align: right;
+}
+nav ul
+{
+list-style-type: none;
+}
+nav li
+{
+display: inline-block;
+margin-right: 10px;
+}
+nav a
+{
+font-size: 1.6em;
+color: #181818;
+padding-bottom: 3px;
+text-decoration: none;
+}
+nav a:hover
+{
+color: #760001;
+border-bottom: 3px solid #760001;
+}
+
